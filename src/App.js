@@ -1,11 +1,11 @@
 import React from "react";
-import Timer from "./components/Timer";
+import TimerSaga from "./components/TimerSaga";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Timer />
+        <TimerSaga />
       </header>
     </div>
   );
